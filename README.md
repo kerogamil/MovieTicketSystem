@@ -66,4 +66,4 @@ https://drive.google.com/file/d/1d5Ccj8KCCvi7NO5chCtxI4sqQLB-SaRV/view?usp=drive
    git clone https://github.com/KeroGamil/Cinema-Ticket-Reservation-System.git
 2. cd Cinema-Ticket-Reservation-System
 3. ./mvnw javafx:run
-4. 
+4. د
